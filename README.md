@@ -7,4 +7,4 @@ The caffe model is missing because is too big, but is easy to find in the _inter
 This is the result:
 
 ![](test4.jpg)
-![](out.png)
+![](out4.png)
